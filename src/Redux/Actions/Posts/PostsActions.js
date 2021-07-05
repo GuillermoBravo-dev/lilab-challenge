@@ -8,7 +8,7 @@ import {
 import axios from 'axios'
 
 const BASE_URL = 'https://dummyapi.io/data/api';
-const APP_ID = '60e2459341b9aeb169b059db'
+const APP_ID = '60e3322f077544d7bcf20484'
 
 const getAllPosts = async () => {
     try {
