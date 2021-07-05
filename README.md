@@ -2,7 +2,6 @@
 - npm install
 - npm start
 
-## Capturas:
 Este challenge fué concretado en menos de 5 horas implementando React - Redux y con la API https://dummyapi.io/
 
 ![1](https://user-images.githubusercontent.com/66447745/124500583-6688b400-dd96-11eb-8f66-c6536ab41762.png)
